@@ -1,0 +1,11 @@
+
+body{ 
+    font-family: "Oswald", sans-serif;
+    /* normalizacion paddin y margen */
+    margin: 0;
+    padding: 0;
+    background-color: rgb(49, 49, 49);
+    color: #ec0000 ;
+    /* alineacion texto centrado */
+    text-align: center;
+}
